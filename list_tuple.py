@@ -98,7 +98,7 @@ for row in combined_matrix:
 
 # Assignment 2: Create a tuple with mixed data types and demonstrate its potential use cases in data structures like dictionaries.
 # Write your code below:
-mixed_tuple = ("Ema",29,"Chittagong",3.897)
+mixed_tuple = ("Nusrat",55,"Chittagong",3.97)
 tuple_dict={mixed_tuple:"My profile"}
 print("Name:", mixed_tuple[0])
 print("ID:", mixed_tuple[1])
@@ -116,8 +116,8 @@ print("Title:", tuple_dict[mixed_tuple])
 # Assignment 3: Create a list of tuples, where each tuple contains a student's name and their grade. Sort this list by grades.
 # Write your code below:
 details = [
-    ("Ema", 85),
-    ("Any", 90),
+    ("Nusrat", 85),
+    ("Arushi", 90),
     ("Ifty", 75),
     ("Shifa", 95),
     ("Erin", 80)]
