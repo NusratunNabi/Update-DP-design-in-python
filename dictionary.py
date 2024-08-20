@@ -2,7 +2,7 @@
 # Perform various operations like adding, removing, and modifying elements.
 # Write your code below:
 student = {
-    'name': 'Ema','roll_number': 29,'grades': {'Physics': 85, 'Math': 90, 'Chemistry': 80}
+    'name': 'Nusrat','roll_number': 55,'grades': {'Physics': 85, 'Math': 90, 'Chemistry': 80}
 } 
 print("Before:",student)
 student['grades']['Biology']=82 #adding new subject and grade
@@ -17,7 +17,7 @@ print("After:",student)
 # Assignment 2: Create a dictionary where keys are student names and values are lists of grades. Calculate the average grade for each student.
 # Write your code below:
 student_grades = {
-    'Ema': [82, 85, 92],
+    'Nusrat': [82, 85, 92],
     'Rafi': [89, 81, 75],
     'Nisha': [90, 78, 80]
 }
